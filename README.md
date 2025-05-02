@@ -1,7 +1,10 @@
-# lab4
-lab4 % git branch -M master
-% git remote add origin https://github.com/Ekaterina416b/lab4.git
-% git push -u origin master
+# lab4 
+lab4% mkdir -p .github/workflows  
+% touch .github/workflows/ci.yml  
+nano .github/workflows/ci.yml  
+% git branch -M master  
+% git remote add origin https://github.com/Ekaterina416b/lab4.git  
+% git push -u origin master  
 ```
 Enumerating objects: 228, done.
 Counting objects: 100% (228/228), done.
@@ -13,5 +16,4 @@ remote: Resolving deltas: 100% (120/120), done.
 To https://github.com/Ekaterina416b/lab4.git
  * [new branch]      master -> master
 branch 'master' set up to track 'origin/master'.
-makbuk@MacBook-Air-makbuk lab4 % 
 ```
